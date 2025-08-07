@@ -22,11 +22,16 @@ const EmailForm = ({
     setIsGenerating(true);
 
     try {
-      const response = await fetch("http://localhost:5000/api/generate-email", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ prompt }),
-      });
+      const response = await fetch(
+        `${
+          process.env.REACT_APP_API_URL || "http://localhost:5000"
+        }/api/generate-email`,
+        {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ prompt }),
+        }
+      );
 
       if (!response.ok) {
         throw new Error("Failed to generate email");
