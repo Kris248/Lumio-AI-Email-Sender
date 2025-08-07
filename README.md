@@ -1,15 +1,5 @@
 # Lumio AI Email Sender ✨
-
-<div align="center">
-![Screenshot_7-8-2025_19915_localhost](https://github.com/user-attachments/assets/a7808821-d9e4-4976-b21f-9322e9c076dc)
-![Screenshot_7-8-2025_191014_localhost](https://github.com/user-attachments/assets/9d0f2d15-58df-49d6-a4d1-a5b18a56a6f0)
-</div>
-
 <br>
-
-<div align="center">
-  <img src="https://github.com/yourusername/lumio-ai-email-sender/raw/main/client/public/screenshot.png" width="800" alt="Lumio AI Email Sender Screenshot">
-</div>
 
 ## Revolutionize Your Email Workflow with AI 💌
 
@@ -167,3 +157,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Transform your email workflow today with Lumio AI Email Sender!** ✉️✨
+
+
+
+
+![Screenshot_7-8-2025_19915_localhost](https://github.com/user-attachments/assets/a7808821-d9e4-4976-b21f-9322e9c076dc) <br>
+![Screenshot_7-8-2025_191014_localhost](https://github.com/user-attachments/assets/9d0f2d15-58df-49d6-a4d1-a5b18a56a6f0)
+
