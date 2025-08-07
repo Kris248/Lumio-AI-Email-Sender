@@ -10,6 +10,17 @@ app.use(express.json());
 // Routes
 const apiRouter = require('./routes/api');
 app.use('/api', apiRouter);
+app.get('/', (req, res) => {
+  res.send(`
+    <html>
+      <head><title>Lumio Backend</title></head>
+      <body>
+        <h1>✅ Lumio Backend is Live</h1>
+        <p>Server running on port ${PORT}</p>
+      </body>
+    </html>
+  `);
+});
 
 // Start server
 const PORT = process.env.PORT || 5000;
