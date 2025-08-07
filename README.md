@@ -161,6 +161,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-![Screenshot_7-8-2025_19915_localhost](https://github.com/user-attachments/assets/a7808821-d9e4-4976-b21f-9322e9c076dc) <br>
-![Screenshot_7-8-2025_191014_localhost](https://github.com/user-attachments/assets/9d0f2d15-58df-49d6-a4d1-a5b18a56a6f0)
+<img width="1700" height="2261" alt="image" src="https://github.com/user-attachments/assets/09633bdb-5ac7-456c-adc3-55fdb0c106f1" />
+
 
