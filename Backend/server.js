@@ -5,15 +5,6 @@ const app = express();
 
 // Middleware
 app.use(cors());
-const corsOptions = {
-  origin: [
-    "http://localhost:5000", // For local dev
-    "https://lumio-ai-email-sender.netlify.app", // Your Netlify frontend
-  ],
-  credentials: true,
-};
-
-app.use(cors(corsOptions));
 app.use(express.json());
 
 // Routes
