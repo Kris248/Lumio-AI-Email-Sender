@@ -24,7 +24,7 @@ const EmailForm = ({
     try {
       const response = await fetch(
         `${
-          process.env.REACT_APP_API_URL || "http://localhost:5000"
+          process.env.REACT_APP_API_URL || "https://lumio-ai-email-sender.onrender.com"
         }/api/generate-email`,
         {
           method: "POST",
