@@ -7,7 +7,7 @@ const app = express();
 app.use(cors());
 const corsOptions = {
   origin: [
-    "http://localhost:3000", // For local dev
+    "http://localhost:5000", // For local dev
     "https://lumio-ai-email-sender.netlify.app", // Your Netlify frontend
   ],
   credentials: true,
