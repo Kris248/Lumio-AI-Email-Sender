@@ -1,4 +1,6 @@
 # Lumio AI Email Sender ✨
+## Developer: Krish Gautam 
+
 <br>
 
 ## Revolutionize Your Email Workflow with AI 💌
