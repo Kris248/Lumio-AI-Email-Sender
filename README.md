@@ -1,10 +1,10 @@
 # Lumio AI Email Sender ✨
 
 <div align="center">
-
-</div>
 ![Screenshot_7-8-2025_19915_localhost](https://github.com/user-attachments/assets/a7808821-d9e4-4976-b21f-9322e9c076dc)
 ![Screenshot_7-8-2025_191014_localhost](https://github.com/user-attachments/assets/9d0f2d15-58df-49d6-a4d1-a5b18a56a6f0)
+</div>
+
 <br>
 
 <div align="center">
